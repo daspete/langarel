@@ -1,5 +1,5 @@
-### LANGAREL 
-# PHP and JS at its best ;)
+# LANGAREL 
+### PHP and JS at its best ;)
 
 goal of this project is to reach the most easiest workflow for a facebook application, which serves all the features through angularjs and has an effective backend for easy data and authorization serving
 
@@ -11,7 +11,7 @@ goal of this project is to reach the most easiest workflow for a facebook applic
 
 ## Preinstalled Components
 
-# [Zurb-Foundation](http://foundation.zurb.com/)
+### [Zurb-Foundation](http://foundation.zurb.com/)
 a SASS CSS Framework
 
 ## Workbench Packages
