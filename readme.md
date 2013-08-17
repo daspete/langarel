@@ -42,3 +42,11 @@ just clone this repo into your desired place, get into the folder and start
 ``` 
 composer install
 ```
+
+some configurations are to do:
+
+#### /app/config/app.php
+fill in your appid and secret
+
+#### /app/config/database.php
+fill in your database config

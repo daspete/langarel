@@ -5,8 +5,8 @@ return array(
 	"angularAppModuleName" => "langarel",
 	
 	"appConfig" => array(
-		"appID" => "508037189277650",
-		"appSecret" => "8a24c76cd7137b0a563190de0b1c31b9",
+		"appID" => "",
+		"appSecret" => "",
 		"scope" => "email",
 		
 		"userHasToLike" => true,
