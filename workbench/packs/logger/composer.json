@@ -1,0 +1,23 @@
+{
+    "name": "packs/logger",
+    "description": "",
+    "authors": [
+        {
+            "name": "Das PeTe",
+            "email": "pete@daspete.at"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Packs\\Logger": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

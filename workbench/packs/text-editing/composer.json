@@ -1,0 +1,23 @@
+{
+    "name": "packs/text-editing",
+    "description": "",
+    "authors": [
+        {
+            "name": "Matthias Koll",
+            "email": "matthiaskoll@gmx.at"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "classmap": [
+            "src/controllers"
+        ],
+        "psr-0": {
+            "Packs\\TextEditing": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}

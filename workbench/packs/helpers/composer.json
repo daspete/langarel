@@ -1,0 +1,23 @@
+{
+    "name": "packs/helpers",
+    "description": "",
+    "authors": [
+        {
+            "name": "Das PeTe",
+            "email": "peter.braith@spinnwerk.at"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Packs\\Helpers": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
